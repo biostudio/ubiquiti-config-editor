@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/biostudio/ubiquiti-config-editor/releases/latest">
-    <img align="center" src="https://raw.githubusercontent.com/biostudiodesign/ubiquiti-config-editor/main/screenshot.png" alt="ubiquiti-config-editor">
+    <img align="center" src="https://raw.githubusercontent.com/biostudio/ubiquiti-config-editor/main/screenshot.png" alt="ubiquiti-config-editor">
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 ```txt
 Download the latest version available from releases. 
-Run and install the setup_UAC-<VERSION>.exe. 
+Run and install the setup-UConfigEditor-<VERSION>.exe. 
 Follow the steps to finish the installation.
 ```
 
